@@ -123,5 +123,11 @@ body {
     display: inline-block;
     margin-top: 40px; }
 
-.foodmenu-section {
+.foodmenu-section h1 {
+  color: #fff; }
+
+.foodmenu-section .foodmenu-heading {
+  background: #000; }
+
+.delivery-section {
   height: 1000px; }
